@@ -1,0 +1,5 @@
+a = int(input("type a: "))
+b = int(input("type b: "))
+c = int(input("type c: "))
+area = 1/2*(a+b+c)
+print(f"Area: {area}")
